@@ -8,5 +8,5 @@
 attempted to make header 
 
 
-![Image of My Cat](![IMG-20191001-WA0002](https://github.com/user-attachments/assets/d2b19246-9077-4b81-a1dc-ad7276c33284)
-)
+![Image of A Cat](https://media.4-paws.org/9/c/9/7/9c97c38666efa11b79d94619cc1db56e8c43d430/Molly_006-2829x1886-2726x1886-1920x1328.jpg)
+
